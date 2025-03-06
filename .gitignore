@@ -22,3 +22,5 @@
 # Ignore large files except for version control
 [Ll]ogs/
 [Pp]ackages/
+Library/
+Library/PackageCache/
