@@ -1,0 +1,24 @@
+# Ignore Unity temp files, logs, and cache
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+
+# Ignore compiled files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.bak
+*.pidb
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignore large files except for version control
+[Ll]ogs/
+[Pp]ackages/
